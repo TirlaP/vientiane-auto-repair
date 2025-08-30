@@ -51,7 +51,7 @@ const AboutSection = () => {
                   }}
                   className="text-center text-4xl font-black text-default md:text-5xl lg:text-start lg:text-6xl lg:leading-[50px] xl:leading-[70px]"
                >
-                  LIBERTY AUTO REPAIRS IN SALT LAKE CITY
+                  VIENTIANE AUTO REPAIR IN SALT LAKE CITY
                </MotionH2>
 
                <MotionP
@@ -72,10 +72,10 @@ const AboutSection = () => {
                   }}
                   className="text-center font-body text-base font-normal text-default-foreground md:text-lg md:leading-7 lg:text-start"
                >
-                  At Liberty Auto Repair, we&apos;re more than just a vehicle repair shop – we&apos;re a locally owned 
-                  business with deep roots in Salt Lake City. Founded by John Doe, a dedicated car enthusiast 
-                  with years of experience in the automotive industry, we pride ourselves on providing high-quality 
-                  repair services at affordable prices.
+                  Welcome to Vientiane Auto Repair, a Laotian family-owned auto repair shop serving Salt Lake City since 1994. 
+                  With over 30 years of experience, we provide honest, reliable automotive service with a personal touch. 
+                  Our team understands that your vehicle is important to you, and we treat every car with the same care 
+                  we would give our own family&apos;s vehicles.
                </MotionP>
 
                <MotionDiv
@@ -100,8 +100,8 @@ const AboutSection = () => {
                   }}
                >
                   <p className="text-xs font-extrabold uppercase text-default-foreground sm:text-sm md:text-base xl:text-lg">
-                     &quot;Auto repair isn&apos;t cheap but it doesn&apos;t have to break the bank, 
-                     that&apos;s why we&apos;re here to help.&quot;
+                     &quot;Family owned since 1994, serving Salt Lake City with honest service 
+                     and transparent pricing you can trust.&quot;
                   </p>
                   <SpannerIcon className="absolute right-20 top-1/2 -translate-y-2/4 fill-white opacity-10" />
                </MotionDiv>
@@ -156,10 +156,10 @@ const Founder = ({ className }: FounderProps) => {
       >
          <div className="leading-normal">
             <h4 className="text-lg font-extrabold uppercase leading-7 text-default">
-               John Doe
+               Vientiane Auto Repair
             </h4>
             <p className="font-body text-lg font-normal text-default-foreground">
-               Owner & Lead Mechanic
+               Family Owned Since 1994
             </p>
          </div>
          <div>

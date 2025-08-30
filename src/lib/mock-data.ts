@@ -17,15 +17,15 @@ const service1_data = [
    },
    {
       id: 2,
-      title: "Brake\nService",
+      title: "Diagnostic\nServices",
       bgImage: "bg-[url('/images/image-45.png')]",
-      Icon: DiscBrakeIcon,
+      Icon: MeterIcon,
    },
    {
       id: 3,
-      title: "Tune\nUps",
+      title: "Vehicle\nInspections",
       bgImage: "bg-[url('/images/image-46.png')]",
-      Icon: CarEngineIcon,
+      Icon: CarKeyIcon,
    },
    {
       id: 4,
@@ -38,26 +38,26 @@ const service1_data = [
 const features1_data = [
    {
       id: 1,
-      title: "best technician",
-      desc: "Aliquet morbi euismod justo acide velen imperd ligula nase posuere",
+      title: "30+ Years Experience",
+      desc: "Family-owned since 1994, serving Salt Lake City with three decades of automotive expertise and trusted service.",
       icon: "icon-2.png",
    },
    {
       id: 2,
-      title: "full warranty",
-      desc: "Aliquet morbi euismod justo acide velen imperd ligula nase posuere",
+      title: "Customer Parts Welcome",
+      desc: "We accept customer-supplied parts with transparent $100/hour labor rate, giving you flexibility and control over your repairs.",
       icon: "icon-3.png",
    },
    {
       id: 3,
-      title: "domestic repair",
-      desc: "Aliquet morbi euismod justo acide velen imperd ligula nase posuere",
+      title: "Honest Diagnostics",
+      desc: "Upfront diagnostic fees that go towards your final repair cost, with detailed estimates before any work begins.",
       icon: "icon-4.png",
    },
    {
       id: 4,
-      title: "client familiar",
-      desc: "Aliquet morbi euismod justo acide velen imperd ligula nase posuere",
+      title: "Appointment Focused",
+      desc: "Highly recommended appointments ensure timely service and reduce your waiting time for efficient vehicle care.",
       icon: "icon-5.png",
    },
 ];

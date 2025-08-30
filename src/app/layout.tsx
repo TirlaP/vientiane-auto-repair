@@ -17,9 +17,9 @@ const orbitron = Orbitron({
 export const metadata: Metadata = {
    title: {
       template: "%s - Vientiane Auto Repair",
-      default: "Vientiane Auto Repair - Small neighborhood repair shop with the customer in mind",
+      default: "Vientiane Auto Repair - Family Owned Auto Service Since 1994",
    },
-   description: "Small neighborhood repair shop with the customer in mind. Auto repair isn't cheap but it doesn't have to break the bank. Liberty Auto Repair in Salt Lake City.",
+   description: "Laotian family-owned auto repair in Salt Lake City since 1994. Honest service, fair pricing, and 30+ years experience. Call (801) 281-4681 for appointments.",
 };
 
 export default function RootLayout({

@@ -72,7 +72,7 @@ const WhoChooseUs = () => {
                   },
                }}
             >
-               <FanFactCard footnote="vehicle repaired" title="20K" />
+               <FanFactCard footnote="Vehicles Serviced" title="15K+" />
             </MotionDiv>
             <MotionDiv
                variants={{
@@ -84,7 +84,7 @@ const WhoChooseUs = () => {
                   },
                }}
             >
-               <FanFactCard footnote="happy customer" title="35K" />
+               <FanFactCard footnote="Years Experience" title="30+" />
             </MotionDiv>
             <MotionDiv
                variants={{
@@ -96,7 +96,7 @@ const WhoChooseUs = () => {
                   },
                }}
             >
-               <FanFactCard footnote="expert mechanics" title="250" />
+               <FanFactCard footnote="Customer Satisfaction" title="98%" />
             </MotionDiv>
             <MotionDiv
                variants={{
@@ -108,7 +108,7 @@ const WhoChooseUs = () => {
                   },
                }}
             >
-               <FanFactCard footnote="awards winning" title="25+" />
+               <FanFactCard footnote="Family Owned Since" title="1994" />
             </MotionDiv>
          </MotionDiv>
       </section>

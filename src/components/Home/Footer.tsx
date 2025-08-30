@@ -81,7 +81,7 @@ const Footer = () => {
                   </h4>
 
                   <p className="text-lg font-normal leading-7 text-default-foreground">
-                     Signup for our monthly newsletter to get the latest news.
+                     Stay updated with automotive tips and special offers from Vientiane Auto Repair.
                   </p>
 
                   <div className="my-4 grid gap-y-3 md:my-[30px] md:gap-y-5">
