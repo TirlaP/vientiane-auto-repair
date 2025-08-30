@@ -1,0 +1,84 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+   :root {
+      --background: hsl(0 0% 100%);
+      --foreground: hsl(20 14.3% 4.1%);
+      --card: hsl(0 0% 100%);
+      --card-foreground: hsl(20 14.3% 4.1%);
+      --popover: hsl(0 0% 100%);
+      --popover-foreground: hsl(20 14.3% 4.1%);
+      --primary: #ff5f2a;
+      --primary-foreground: hsl(60 9.1% 97.8%);
+      --secondary: hsl(60 4.8% 95.9%);
+      --secondary-foreground: hsl(24 9.8% 10%);
+      --muted: hsl(60 4.8% 95.9%);
+      --muted-foreground: hsl(25 5.3% 44.7%);
+      --accent: hsl(60 4.8% 95.9%);
+      --accent-foreground: hsl(24 9.8% 10%);
+      --destructive: hsl(0 84.2% 60.2%);
+      --destructive-foreground: hsl(60 9.1% 97.8%);
+      --border: hsl(20 5.9% 90%);
+      --input: hsl(20 5.9% 90%);
+      --ring: hsl(15, 100%, 58%);
+      --radius: 10px;
+      --tertiary: #ffd400;
+      --text-primary: #fff;
+      --text-secondary: #9da0a4;
+      --text-tertiary: #505459;
+      --text-black: #1b1d27;
+      --background-dark: #12151b;
+      --background-dark-secondary: #292e36;
+      /* --heavy-bold: 900; */
+      --line-height-heavy: 60px;
+      --placeholder: #cccccc;
+      --bg-fade: hsl(228, 33%, 97%);
+      --container-2: 1720px;
+      --navbar-1: 5rem;
+      --navbar-2: 137px;
+      --navbar-3: 5rem;
+   }
+}
+
+.navbar-h {
+   @apply h-20;
+}
+
+.navbar2-h {
+   @apply max-h-[137px];
+}
+
+.navbar2-active__1 {
+   @apply skew-x-12 cursor-pointer rounded bg-tertiary px-3 py-[6px] text-default-black *:block *:skew-x-0;
+}
+
+.navbar2-active {
+   @apply skew-x-12 cursor-pointer rounded bg-tertiary px-3 py-[6px] text-default-black *:block *:-skew-x-12;
+}
+
+.navbar-list__container li {
+   @apply *:transition *:duration-200 *:ease-in-out *:hover:text-primary;
+}
+
+.article_p > p {
+   @apply my-2.5 overflow-hidden font-body text-base font-normal text-default-tertiary lg:my-5 lg:text-lg;
+}
+
+.article_img > img {
+   @apply my-4 overflow-hidden md:my-6 lg:my-8 xl:my-10;
+}
+
+/* Com: ScrollBarAnime */
+
+.progress-bar {
+   position: fixed;
+   top: 0;
+   left: 0;
+   right: 0;
+   height: 05px;
+   background: var(--primary);
+   transform-origin: 0%;
+   z-index: 10000000000000;
+}
