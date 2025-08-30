@@ -16,8 +16,8 @@ const orbitron = Orbitron({
 
 export const metadata: Metadata = {
    title: {
-      template: "%s - Liberty Auto SLC",
-      default: "Liberty Auto SLC - Small neighborhood repair shop with the customer in mind",
+      template: "%s - Vientiane Auto Repair",
+      default: "Vientiane Auto Repair - Small neighborhood repair shop with the customer in mind",
    },
    description: "Small neighborhood repair shop with the customer in mind. Auto repair isn't cheap but it doesn't have to break the bank. Liberty Auto Repair in Salt Lake City.",
 };

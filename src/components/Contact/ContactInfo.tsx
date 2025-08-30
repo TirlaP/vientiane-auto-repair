@@ -27,7 +27,7 @@ const ContactInfo = () => {
             <ContactInfoCard
                Icon={TelephoneIcon}
                title="phone"
-               contact={["+1 801-941-1604"]}
+               contact={["+1 (801) 281-4681"]}
                isCentered
             />
          </div>

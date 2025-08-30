@@ -38,7 +38,7 @@ const Footer = () => {
                               Email us
                            </h5>
                            <p className="text-lg font-normal leading-7 text-default-foreground">
-                              contact@libertyautoslc.com
+                              vientianerepairs@gmail.com
                            </p>
                         </div>
                      </li>
@@ -52,7 +52,7 @@ const Footer = () => {
                               phone no
                            </h5>
                            <p className="text-lg font-normal leading-7 text-default-foreground">
-                              +1 801-941-1604
+                              +1 (801) 281-4681
                            </p>
                         </div>
                      </li>
@@ -66,8 +66,8 @@ const Footer = () => {
                               location
                            </h5>
                            <p className="text-lg font-normal leading-7 text-default-foreground">
-                              528 seltice way coeur alene <br /> ID 83814,
-                              California.
+                              226 W 3620 S, <br /> UT 84115,
+                              Salt Lake City.
                            </p>
                         </div>
                      </li>
@@ -117,8 +117,8 @@ const Footer = () => {
             </div>
 
             <p className="hidden text-center font-body text-base font-medium leading-5 text-default-foreground lg:block">
-               Copyright &copy; 2024{" "}
-               <span className="font-bold text-tertiary">Liberty Auto SLC</span>. All
+               Copyright &copy; 2025{" "}
+               <span className="font-bold text-tertiary">Vientiane Auto Repair</span>. All
                Rights Reserved
             </p>
 

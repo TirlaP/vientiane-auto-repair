@@ -11,7 +11,7 @@ const Logo = forwardRef((props, ref: LegacyRef<HTMLDivElement> | undefined) => (
       <Link href="/" className="h-full w-full">
          <Image
             src="/images/logo-main.png"
-            alt="Liberty Auto SLC"
+            alt="Vientiane Auto Repair"
             width={183}
             height={42}
             loading="lazy"

@@ -26,7 +26,7 @@ const ClientSection = () => {
                   src="/images/client-1.png"
                   width={200}
                   height={100}
-                  alt="Liberty Auto SLC"
+                  alt="Vientiane Auto Repair"
                />
             </MotionDiv>
             <MotionDiv
@@ -44,7 +44,7 @@ const ClientSection = () => {
                   src="/images/client-2.png"
                   width={80}
                   height={50}
-                  alt="Liberty Auto SLC"
+                  alt="Vientiane Auto Repair"
                />
             </MotionDiv>
             <MotionDiv
@@ -62,7 +62,7 @@ const ClientSection = () => {
                   src="/images/client-3.png"
                   width={100}
                   height={60}
-                  alt="Liberty Auto SLC"
+                  alt="Vientiane Auto Repair"
                />
             </MotionDiv>
             <MotionDiv
@@ -80,7 +80,7 @@ const ClientSection = () => {
                   src="/images/client-4.png"
                   width={200}
                   height={100}
-                  alt="Liberty Auto SLC"
+                  alt="Vientiane Auto Repair"
                />
             </MotionDiv>
             <MotionDiv
@@ -98,7 +98,7 @@ const ClientSection = () => {
                   src="/images/client-5.png"
                   width={100}
                   height={60}
-                  alt="Liberty Auto SLC"
+                  alt="Vientiane Auto Repair"
                />
             </MotionDiv>
          </div>
@@ -107,3 +107,4 @@ const ClientSection = () => {
 };
 
 export { ClientSection };
+
