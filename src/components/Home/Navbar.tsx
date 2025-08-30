@@ -1,19 +1,12 @@
 "use client";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { LuChevronDown } from "react-icons/lu";
 import { motion } from "framer-motion";
 
-import { Separator } from "@/components/ui/separator";
 import { Button } from "@/components/ui/button";
-import { CartIcon, RightArrowIcon, SearchIcon } from "@/components/ui/icons";
+import { RightArrowIcon } from "@/components/ui/icons";
 import { cn } from "@/lib/utils";
 import { ResponsiveNavbar } from "@/components/ResponsiveNavbar";
-import {
-   HoverCard,
-   HoverCardContent,
-   HoverCardTrigger,
-} from "@/components/ui/hover-card";
 import { MotionLogo } from "@/components/animations/motion";
 
 interface NavbarProps {

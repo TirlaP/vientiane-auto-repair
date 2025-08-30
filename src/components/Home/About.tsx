@@ -72,7 +72,7 @@ const AboutSection = () => {
                   }}
                   className="text-center font-body text-base font-normal text-default-foreground md:text-lg md:leading-7 lg:text-start"
                >
-                  At Liberty Auto Repair, we're more than just a vehicle repair shop – we're a locally owned 
+                  At Liberty Auto Repair, we&apos;re more than just a vehicle repair shop – we&apos;re a locally owned 
                   business with deep roots in Salt Lake City. Founded by Will Neuman, a dedicated car enthusiast 
                   with years of experience in the automotive industry, we pride ourselves on providing high-quality 
                   repair services at affordable prices.
@@ -100,8 +100,8 @@ const AboutSection = () => {
                   }}
                >
                   <p className="text-xs font-extrabold uppercase text-default-foreground sm:text-sm md:text-base xl:text-lg">
-                     "Auto repair isn't cheap but it doesn't have to break the bank, 
-                     that's why we're here to help."
+                     &quot;Auto repair isn&apos;t cheap but it doesn&apos;t have to break the bank, 
+                     that&apos;s why we&apos;re here to help.&quot;
                   </p>
                   <SpannerIcon className="absolute right-20 top-1/2 -translate-y-2/4 fill-white opacity-10" />
                </MotionDiv>

@@ -8,20 +8,20 @@ import { LuChevronDown } from "react-icons/lu";
 import { Logo } from "@/components/Logo";
 import { ResponsiveNavbar } from "@/components/ResponsiveNavbar";
 import {
-    CartIcon,
-    EmailInbox2Icon,
-    EnergyIcon,
-    MapsIcon,
-    RightArrowIcon,
-    SearchIcon,
+   CartIcon,
+   EmailInbox2Icon,
+   EnergyIcon,
+   MapsIcon,
+   RightArrowIcon,
+   SearchIcon,
 } from "@/components/ui/icons";
 import { Separator } from "@/components/ui/separator";
 import { cn } from "@/lib/utils";
 import { MotionLink } from "../animations/motion";
 import {
-    HoverCard,
-    HoverCardContent,
-    HoverCardTrigger,
+   HoverCard,
+   HoverCardContent,
+   HoverCardTrigger,
 } from "../ui/hover-card";
 
 const Navbar = () => {
